@@ -11,6 +11,6 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: ^(phd$)" %}
 {% include list.html data="members" component="portrait" filters="role: visitingphd" %}
 
