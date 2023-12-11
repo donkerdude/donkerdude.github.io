@@ -9,9 +9,9 @@ footer: #images/background.jpg
 links:
   email: stephen.xia@northwestern.edu
   orcid: 0000-0001-5713-8885
-  google-scholar: https://scholar.google.com/citations?hl=en&user=b6PNcXQAAAAJ&view_op=list_works&sortby=pubdate
-  github: https://github.com/donkerdude?tab=repositories
-  twitter: #donkerdude
+  google-scholar: b6PNcXQAAAAJ&view_op=list_works&sortby=pubdate
+  github: donkerdude?tab=repositories
+  #twitter: donkerdude
   #youtube: donkerdude
 
 ### jekyll settings
