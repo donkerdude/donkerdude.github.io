@@ -14,10 +14,14 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+visitingphd:
+  icon: fa-solid fa-plane
+  description: Visiting PhD Student
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
-
+  
 programmer:
   icon: fa-solid fa-code
   description: Programmer
