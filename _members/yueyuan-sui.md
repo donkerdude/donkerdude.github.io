@@ -6,4 +6,8 @@ links:
   email: yueyuansui2024@u.northwestern.edu
 ---
 
-<meta http-equiv = "refresh" content = "0; url = http://www.stephenxia.com" />
+<html>
+   <head>
+      <meta http-equiv = "refresh" content = "0; url = https://scottz.net/" />
+   </head>
+</html>

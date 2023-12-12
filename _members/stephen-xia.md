@@ -11,4 +11,8 @@ links:
   orcid: 0000-0001-5713-8885
 ---
 
-<meta http-equiv = "refresh" content = "0; url = http://www.stephenxia.com" />
+<html>
+   <head>
+      <meta http-equiv = "refresh" content = "0; url = http://www.stephenxia.com" />
+   </head>
+</html>

@@ -7,4 +7,8 @@ links:
   linkedin: benjamin-ferreira-0a8ba6188
 ---
 
-<meta http-equiv = "refresh" content = "0; url = http://www.stephenxia.com" />
+<html>
+   <head>
+      <meta http-equiv = "refresh" content = "0; url = https://scottz.net/" />
+   </head>
+</html>
