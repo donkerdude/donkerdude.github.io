@@ -42,6 +42,8 @@ AvA allows developers to select sounds they want to enhance or filter out using 
 
 We incorporate AvA into a wide range of real systems and applications in health, safety, and privacy to demonstrate its utility.
 
+{% include section.html %}
+
 ## Publications
 
 {% include list.html data="citations" component="citation" style="rich" filters="group: ava_cu" %}

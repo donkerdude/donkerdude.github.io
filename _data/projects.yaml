@@ -1,18 +1,18 @@
 - title: Drone-based Airflow Sensing without Sensors
   image: images/project/Minifly-labelled.png
-  link: https://scottz.net/
+  link: projects/drone-sensorless-airflow
 
 - title: Recommender Systems for Optimizing Energy, Comfort, and Health 
   image: images/project/recEnergyWatch_IoTJ-1024x1024.png
-  link: https://scottz.net/
+  link: projects/recommender-energy-comfort-health
 
 - title: Modular and Reconfigurable Sensing Platforms
   image: images/project/hw_overview_v3_cropped.png
-  link: https://scottz.net/
+  link: projects/modular-reconfigurable-sensing
 
 - title: AR and AI-based Health Self-Screening
   image: images/project/banner_1_cropped.png
-  link: https://scottz.net/
+  link: projects/ai-stethoscope
 
 - title: Selective and Adaptive Audio Filtering for Mobile, Embedded, and Cyber-Physical Systems
   image: images/project/system_architecture.png
@@ -20,40 +20,40 @@
 
 - title: Audio Wearables for Urban Safety
   image: images/project/Teardown_SEUS.PNG
-  link: https://scottz.net/
+  link: projects/audio-wearables-urban-safety
 
 - title: Drone-based Systems for Intelligent and Autonomous Homes, Offices, and Spaces
   image: images/project/image-5.png
-  link: https://scottz.net/
+  link: projects/drone-intelligent-spaces
 
 - title: Self-Orienting Camera Networks for Floor Mapping and Indoor Tracking
   image: images/project/0.Implementation-1024x387.png
-  link: https://scottz.net/
+  link: projects/sofit-camera-network
 
 - title: Building Energy Footprinting
   image: images/project/Footprint-1024x331.png
-  link: https://scottz.net/
+  link: projects/building-energy-footprinting
 
 - title: Robust, Continuous, and Multi-Person Fever Screening
   image: images/project/3DMapping-1024x644.png
-  link: https://scottz.net/
+  link: projects/continuous-fever-screening
 
 - title: Towards AI-based Mental Health Providers
   image: images/project/answering_naming_frozen-1024x501.png
-  link: https://scottz.net/
+  link: projects/ai-mental-health
 
 - title: Smart Textiles for Continuous Perspiration Sensing
   image: images/project/sweat.png
-  link: https://scottz.net/
+  link: projects/perspiration-smart-textiles
 
 - title: Wearables for Emotion Sensing
   image: images/project/Picture7.png
-  link: https://scottz.net/
+  link: projects/emotion-wearables
 
 - title: Smartphone Platforms for Detection and Notification of Leg Shaking
   image: images/project/3d_scatter_oppositeleg_highlighted.png
-  link: https://scottz.net/
+  link: projects/mobile-leg-shaking
 
 - title: Intelligent and Privacy Preserving Pillbox
   image: images/project/pillbox-1024x766.jpg
-  link: https://scottz.net/
+  link: projects/intelligent-privacy-pillbox

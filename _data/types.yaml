@@ -150,6 +150,18 @@ error:
   icon: fa-solid fa-ban
   color: "#ef4444"
 
+# presentations
+
+presentation:
+  icon: fa-solid fa-presentation-screen
+  text: Presentation
+  tooltip: Presentation
+
+demonstration:
+  icon: fa-solid fa-laptop-binary
+  text: Demonstration
+  tooltip: Demonstration
+
 # publications
 
 paper:
