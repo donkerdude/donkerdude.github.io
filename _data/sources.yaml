@@ -1,77 +1,114 @@
 - id: doi:10.1145/3600100.3623735
-
+  image: false
+  
 - id: doi:10.1145/3570361.3613292
-
+  image: false
+  
 - id: doi:10.1145/3575813.3597350
-
+  image: false
+  
 - id: doi:10.1145/3583120.3586962
-
+  image: false
+  
 - id: doi:10.1145/3576914.3589561
-
+  image: false
+  
 - id: doi:10.1145/3576842.3582369
-
+  image: false
+  
 - id: doi:10.1109/IPSN54338.2022.00009
-
+  image: false
+  
 - id: doi:10.1145/3498361.3538667
-
+  image: false
+  
 - id: doi:10.1145/3498361.3538671
-
+  image: false
+  
 - id: doi:10.1145/3560905.3568082
-
+  image: false
+  
 - id: doi:10.1145/3560905.3568074
-
+  image: false
+  
 - id: doi:10.1109/MPRV.2022.3172419
-
+  image: false
+  
 - id: doi:10.1109/IPSN54338.2022.00017
-
+  image: false
+  
 - id: doi:10.1145/3539490.3539598
-
+  image: false
+  
 - id: doi:10.1145/3539490.3539603
-
+  image: false
+  
 - id: doi:10.3390/s22041476
-
+  image: false
+  
 - id: doi:10.1109/DCOSS54816.2022.00029
-
+  image: false
+  
 - id: doi:10.1145/3485730.3492881
-
+  image: false
+  
 - id: doi:10.1145/3412382.3458267
-
+  image: false
+  
 - id: doi:10.1145/3412382.3458784
-
+  image: false
+  
 - id: doi:10.1016/j.pmcj.2021.101424
-
+  image: false
+  
 - id: doi:10.1109/IPSN48710.2020.000-1
-
+  image: false
+  
 - id: doi:10.1145/3417313.3429383
-
+  image: false
+  
 - id: doi:10.1109/IoTDI49375.2020.00011
-
+  image: false
+  
 - id: doi:10.1109/JIOT.2020.2974848
-
+  image: false
+  
 - id: doi:10.1109/JIOT.2019.2903519
+  image: false
 
 - id: doi:10.1145/3218582
+  image: false
 
 - id: doi:10.1109/VNC.2018.8628320
-
+  image: false
+  
 - id: doi:10.3390/s18113775
+  image: false
 
 - id: doi:10.1109/IoTDI.2018.00056
-
+  image: false
+  
 - id: doi:10.1145/3209219.3209244
-
+  image: false
+  
 - id: doi:10.1016/j.smhl.2018.07.012
-
+  image: false
+  
 - id: doi:10.1145/3267305.3274177
-
+  image: false
+  
 - id: doi:10.1109/IoTDI.2018.00031
-
+  image: false
+  
 - id: doi:10.1016/j.smhl.2018.07.019
-
+  image: false
+  
 - id: doi:10.1145/3137133.3137150
-
+  image: false
+  
 - id: doi:10.1145/3123024.3124408
-
+  image: false
+  
 - id: doi:10.1145/2994551.2996547
-
+  image: false
 
