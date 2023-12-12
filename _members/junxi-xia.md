@@ -5,3 +5,5 @@ role: phd
 links:
   linkedin: junxixia
 ---
+
+<meta http-equiv = "refresh" content = "0; url = http://www.stephenxia.com" />

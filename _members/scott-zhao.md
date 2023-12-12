@@ -8,3 +8,5 @@ links:
   linkedin: scott-zhao
   github: zhaomh1998
 ---
+
+<meta http-equiv = "refresh" content = "0; url = http://www.stephenxia.com" />
