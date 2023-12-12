@@ -1,60 +1,570 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1145/3600100.3623735
+  title: 'RECA: A Multi-Task Deep Reinforcement Learning-Based Recommender System
+    for Co-Optimizing Energy, Comfort and Air Quality in Commercial Buildings'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  - Stephen Xia
+  - Peter Wei
+  - Yanchen Liu
+  - Andrew Sonta
+  - Xiaofan Jiang
+  publisher: Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient
+    Buildings, Cities, and Transportation
+  date: '2023-11-15'
+  link: https://doi.org/gs8ndf
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1145/3570361.3613292
+  title: 'Anemoi: A Low-cost Sensorless Indoor Drone System for Automatic Mapping
+    of 3D Airflow Fields'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Stephen Xia
+  - Minghui Zhao
+  - Charuvahan Adhivarahan
+  - Kaiyuan Hou
+  - Yuyang Chen
+  - Jingping Nie
+  - Eugene Wu
+  - Karthik Dantu
+  - Xiaofan Jiang
+  publisher: Proceedings of the 29th Annual International Conference on Mobile Computing
+    and Networking
+  date: '2023-10-02'
+  link: https://doi.org/gs8nfs
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1145/3575813.3597350
+  title: A Data-Driven and Human-Centric EV Charging Recommendation System at City-Scale
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Jingping Nie
+  - Stephen Xia
+  - Yanchen Liu
+  - Shengxuan Ding
+  - Lanxiang Hu
+  - Minghui Zhao
+  - Yuang Fan
+  - Mohamed Abdel-Aty
+  - Matthias Preindl
+  - Xiaofan Jiang
+  publisher: Proceedings of the 14th ACM International Conference on Future Energy
+    Systems
+  date: '2023-06-16'
+  link: https://doi.org/gs8nft
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3583120.3586962
+  title: 'ARSteth: Enabling Home Self-Screening with AR-Assisted Intelligent Stethoscopes'
+  authors:
+  - Kaiyuan Hou
+  - Stephen Xia
+  - Emily Bejerano
+  - Junyi Wu
+  - Xiaofan Jiang
+  publisher: The 22nd International Conference on Information Processing in Sensor
+    Networks
+  date: '2023-05-09'
+  link: https://doi.org/gs8nfv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3576914.3589561
+  title: 'CaNRun: Non-Contact, Acoustic-based Cadence Estimation on Treadmills using
+    Smartphones'
+  authors:
+  - Ziyi Xuan
+  - Ming Liu
+  - Jingping Nie
+  - Minghui Zhao
+  - Stephen Xia
+  - Xiaofan Jiang
+  publisher: Proceedings of Cyber-Physical Systems and Internet of Things Week 2023
+  date: '2023-05-09'
+  link: https://doi.org/gs8nfw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3576842.3582369
+  title: 'LegoSENSE: An Open and Modular Sensing Platform for Rapidly-Deployable IoT
+    Applications'
+  authors:
+  - Minghui Zhao
+  - Stephen Xia
+  - Jingping Nie
+  - Kaiyuan Hou
+  - Avik Dhupar
+  - Xiaofan Jiang
+  publisher: Proceedings of the 8th ACM/IEEE Conference on Internet of Things Design
+    and Implementation
+  date: '2023-05-09'
+  link: https://doi.org/gs8nfx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/IPSN54338.2022.00009
+  title: A Low-Cost In-situ System for Continuous Multi-Person Fever Screening
+  authors:
+  - Kaiyuan Hou
+  - Yanchen Liu
+  - Peter Wei
+  - Chenye Yang
+  - Hengjiu Kang
+  - Stephen Xia
+  - Teresa Spada
+  - Andrew Rundle
+  - Xiaofan Jiang
+  publisher: 2022 21st ACM/IEEE International Conference on Information Processing
+    in Sensor Networks (IPSN)
+  date: '2022-05-01'
+  link: https://doi.org/gs8nfz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3498361.3538667
+  title: A modular and reconfigurable sensing and actuation platform for smarter environments
+    and drones
+  authors:
+  - Minghui Zhao
+  - Yanchen Liu
+  - Avik Dhupar
+  - Kaiyuan Hou
+  - Stephen Xia
+  - Xiaofan Jiang
+  publisher: Proceedings of the 20th Annual International Conference on Mobile Systems,
+    Applications and Services
+  date: '2022-06-27'
+  link: https://doi.org/gs8nf2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3498361.3538671
+  title: A sensorless drone-based system for mapping indoor 3D airflow gradients
+  authors:
+  - Yanchen Liu
+  - Minghui Zhao
+  - Stephen Xia
+  - Eugene Wu
+  - Xiaofan Jiang
+  publisher: Proceedings of the 20th Annual International Conference on Mobile Systems,
+    Applications and Services
+  date: '2022-06-27'
+  link: https://doi.org/gs8nf3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3560905.3568082
+  title: AI Stethoscope for Home Self-Diagnosis with AR Guidance
+  authors:
+  - Kaiyuan Hou
+  - Stephen Xia
+  - Junyi Wu
+  - Minghui Zhao
+  - Emily Bejerano
+  - Xiaofan Jiang
+  publisher: Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems
+  date: '2022-11-06'
+  link: https://doi.org/gs8nf4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3560905.3568074
+  title: AI Therapist for Daily Functioning Assessment and Intervention Using Smart
+    Home Devices
+  authors:
+  - Jingping Nie
+  - Minghui Zhao
+  - Stephen Xia
+  - Xinghua Sun
+  - Hanya Shao
+  - Yuang Fan
+  - Matthias Preindl
+  - Xiaofan Jiang
+  publisher: Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems
+  date: '2022-11-06'
+  link: https://doi.org/gs8nf5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MPRV.2022.3172419
+  title: 'aiMSE: Toward an AI-Based Online Mental Status Examination'
+  authors:
+  - Yanchen Liu
+  - Stephen Xia
+  - Jingping Nie
+  - Peter Wei
+  - Zhan Shu
+  - Jeffrey Andrew Chang
+  - Xiaofan Jiang
+  publisher: IEEE Pervasive Computing
+  date: '2022-10-01'
+  link: https://doi.org/gs8nf7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/IPSN54338.2022.00017
+  title: 'AvA: An Adaptive Audio Filtering Architecture for Enhancing Mobile, Embedded,
+    and Cyber-Physical Systems'
+  authors:
+  - Stephen Xia
+  - Xiaofan Jiang
+  publisher: 2022 21st ACM/IEEE International Conference on Information Processing
+    in Sensor Networks (IPSN)
+  date: '2022-05-01'
+  link: https://doi.org/gs8nf8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3539490.3539598
+  title: BuMA
+  authors:
+  - Kaiyuan Hou
+  - Stephen Xia
+  - Xiaofan Jiang
+  publisher: Proceedings of the 1st ACM International Workshop on Intelligent Acoustic
+    Systems and Applications
+  date: '2022-06-27'
+  link: https://doi.org/gs8nf9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3539490.3539603
+  title: Conversational AI Therapist for Daily Function Screening in Home Environments
+  authors:
+  - Jingping Nie
+  - Hanya Shao
+  - Minghui Zhao
+  - Stephen Xia
+  - Matthias Preindl
+  - Xiaofan Jiang
+  publisher: Proceedings of the 1st ACM International Workshop on Intelligent Acoustic
+    Systems and Applications
+  date: '2022-06-27'
+  link: https://doi.org/grmf9j
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/s22041476
+  title: 'Deep Learning in Human Activity Recognition with Wearable Sensors: A Review
+    on Advances'
+  authors:
+  - Shibo Zhang
+  - Yaxuan Li
+  - Shen Zhang
+  - Farzad Shahabi
+  - Stephen Xia
+  - Yu Deng
+  - Nabil Alshurafa
+  publisher: Sensors
+  date: '2022-02-14'
+  link: https://doi.org/gr2c9r
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/DCOSS54816.2022.00029
+  title: 'SoFIT: Self-Orienting Camera Network for Floor Mapping and Indoor Tracking'
+  authors:
+  - Yanchen Liu
+  - Jingping Nie
+  - Stephen Xia
+  - Jiajing Sun
+  - Peter Wei
+  - Xiaofan Jiang
+  publisher: 2022 18th International Conference on Distributed Computing in Sensor
+    Systems (DCOSS)
+  date: '2022-05-01'
+  link: https://doi.org/gs8ngb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3485730.3492881
+  title: A Drone-based System for Intelligent and Autonomous Homes
+  authors:
+  - Stephen Xia
+  - Rishikanth Chandrasekaran
+  - Yanchen Liu
+  - Chenye Yang
+  - Tajana Simunic Rosing
+  - Xiaofan Jiang
+  publisher: Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems
+  date: '2021-11-15'
+  link: https://doi.org/gs8ngc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3412382.3458267
+  title: CSafe
+  authors:
+  - Stephen Xia
+  - Jingping Nie
+  - Xiaofan Jiang
+  publisher: Proceedings of the 20th International Conference on Information Processing
+    in Sensor Networks (co-located with CPS-IoT Week 2021)
+  date: '2021-05-18'
+  link: https://doi.org/gs8ngd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3412382.3458784
+  title: Improving Acoustic Detection and Classification in Mobile and Embedded Platforms
+  authors:
+  - Stephen Xia
+  - Xiaofan Jiang
+  publisher: Proceedings of the 20th International Conference on Information Processing
+    in Sensor Networks (co-located with CPS-IoT Week 2021)
+  date: '2021-05-18'
+  link: https://doi.org/gs8ngf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.pmcj.2021.101424
+  title: 'SPIDERS<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"
+    id="d1e682" altimg="si7.svg"><mml:mo>+</mml:mo></mml:math>: A light-weight, wireless,
+    and low-cost glasses-based wearable platform for emotion sensing and bio-signal
+    acquisition'
+  authors:
+  - Jingping Nie
+  - Yanchen Liu
+  - Yigong Hu
+  - Yuanyuting Wang
+  - Stephen Xia
+  - Matthias Preindl
+  - Xiaofan Jiang
+  publisher: Pervasive and Mobile Computing
+  date: '2021-08-01'
+  link: https://doi.org/gkc7pn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/IPSN48710.2020.000-1
+  title: 'Demo Abstract: Wireless Glasses for Non-contact Facial Expression Monitoring'
+  authors:
+  - Yigong Hu
+  - Jingping Nie
+  - Yuanyuting Wang
+  - Stephen Xia
+  - Xiaofan Jiang
+  publisher: 2020 19th ACM/IEEE International Conference on Information Processing
+    in Sensor Networks (IPSN)
+  date: '2020-04-01'
+  link: https://doi.org/gs8ngg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3417313.3429383
+  title: PAMS
+  authors:
+  - Stephen Xia
+  - Xiaofan Jiang
+  publisher: Proceedings of the 2nd International Workshop on Challenges in Artificial
+    Intelligence and Machine Learning for Internet of Things
+  date: '2020-11-16'
+  link: https://doi.org/gs8ngh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/IoTDI49375.2020.00011
+  title: 'SPIDERS: Low-Cost Wireless Glasses for Continuous In-Situ Bio-Signal Acquisition
+    and Emotion Recognition'
+  authors:
+  - Jingping Nie
+  - Yigong Hu
+  - Yuanyuting Wang
+  - Stephen Xia
+  - Xiaofan Jiang
+  publisher: 2020 IEEE/ACM Fifth International Conference on Internet-of-Things Design
+    and Implementation (IoTDI)
+  date: '2020-04-01'
+  link: https://doi.org/gs8ngj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JIOT.2020.2974848
+  title: A Deep-Reinforcement-Learning-Based Recommender System for Occupant-Driven
+    Energy Optimization in Commercial Buildings
+  authors:
+  - Peter Wei
+  - Stephen Xia
+  - Runfeng Chen
+  - Jingyi Qian
+  - Chong Li
+  - Xiaofan Jiang
+  publisher: IEEE Internet of Things Journal
+  date: '2020-07-01'
+  link: https://doi.org/gsz6wn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JIOT.2019.2903519
+  title: Improving Pedestrian Safety in Cities Using Intelligent Wearable Systems
+  authors:
+  - Stephen Xia
+  - Daniel de Godoy Peixoto
+  - Bashima Islam
+  - Md Tamzeed Islam
+  - Shahriar Nirjon
+  - Peter R. Kinget
+  - Xiaofan Jiang
+  publisher: IEEE Internet of Things Journal
+  date: '2019-10-01'
+  link: https://doi.org/gs8ngk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3218582
+  title: A Scalable System for Apportionment and Tracking of Energy Footprints in
+    Commercial Buildings
+  authors:
+  - Peter Wei
+  - Xiaoqi Chen
+  - Jordan Vega
+  - Stephen Xia
+  - Rishikanth Chandrasekaran
+  - Xiaofan Jiang
+  publisher: ACM Transactions on Sensor Networks
+  date: '2018-11-27'
+  link: https://doi.org/gs8ngm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/VNC.2018.8628320
+  title: A Smartphone-Based System for Improving Pedestrian Safety
+  authors:
+  - Stephen Xia
+  - Daniel de Godoy
+  - Bashima Islam
+  - Md Tamzeed Islam
+  - Shahriar Nirjon
+  - Peter R. Kinget
+  - Xiaofan Jiang
+  publisher: 2018 IEEE Vehicular Networking Conference (VNC)
+  date: '2018-12-01'
+  link: https://doi.org/gs8ngn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/s18113775
+  title: Conductive Thread-Based Textile Sensor for Continuous Perspiration Level
+    Monitoring
+  authors:
+  - Ji Jia
+  - Chengtian Xu
+  - Shijia Pan
+  - Stephen Xia
+  - Peter Wei
+  - Hae Noh
+  - Pei Zhang
+  - Xiaofan Jiang
+  publisher: Sensors
+  date: '2018-11-05'
+  link: https://doi.org/gs8ngp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/IoTDI.2018.00056
+  title: 'Demo Abstract: An Ultra-Low-Power Custom Integrated Circuit Based Sound-Source
+    Localization System'
+  authors:
+  - Daniel de Godoy
+  - Stephen Xia
+  - Wendy P. Fernandez
+  - Xiaofan Jiang
+  - Peter R. Kinget
+  publisher: 2018 IEEE/ACM Third International Conference on Internet-of-Things Design
+    and Implementation (IoTDI)
+  date: '2018-04-01'
+  link: https://doi.org/gs8ngq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3209219.3209244
+  title: Energy Saving Recommendations and User Location Modeling in Commercial Buildings
+  authors:
+  - Peter Wei
+  - Stephen Xia
+  - Xiaofan Jiang
+  publisher: Proceedings of the 26th Conference on User Modeling, Adaptation and Personalization
+  date: '2018-07-03'
+  link: https://doi.org/gs8ngr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.smhl.2018.07.012
+  title: Intelligent and privacy-preserving medication adherence system
+  authors:
+  - Ji Jia
+  - Jinyang Yu
+  - Raghavendra Sirigeri Hanumesh
+  - Stephen Xia
+  - Peter Wei
+  - Hyunmi Choi
+  - Xiaofan Jiang
+  publisher: Smart Health
+  date: '2018-12-01'
+  link: https://doi.org/gs8ngs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3267305.3274177
+  title: Moisture Based Perspiration Level Estimation
+  authors:
+  - Ji Jia
+  - Chengtian Xu
+  - Shijia Pan
+  - Stephen Xia
+  - Peter Wei
+  - Hae Young Noh
+  - Pei Zhang
+  - Xiaofan Jiang
+  publisher: Proceedings of the 2018 ACM International Joint Conference and 2018 International
+    Symposium on Pervasive and Ubiquitous Computing and Wearable Computers
+  date: '2018-10-08'
+  link: https://doi.org/gs8ngt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/IoTDI.2018.00031
+  title: 'PAWS: A Wearable Acoustic System for Pedestrian Safety'
+  authors:
+  - Daniel de Godoy
+  - Bashima Islam
+  - Stephen Xia
+  - Md Tamzeed Islam
+  - Rishikanth Chandrasekaran
+  - Yen-Chun Chen
+  - Shahriar Nirjon
+  - Peter R. Kinget
+  - Xiaofan Jiang
+  publisher: 2018 IEEE/ACM Third International Conference on Internet-of-Things Design
+    and Implementation (IoTDI)
+  date: '2018-04-01'
+  link: https://doi.org/gs8ngv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.smhl.2018.07.019
+  title: 'SPINDLES+: An adaptive and personalized system for leg shake detection'
+  authors:
+  - Stephen Xia
+  - Peter Wei
+  - Jordan Misael Vega
+  - Xiaofan Jiang
+  publisher: Smart Health
+  date: '2018-12-01'
+  link: https://doi.org/gs8ngw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3137133.3137150
+  title: ePrints
+  authors:
+  - Peter Wei
+  - Xiaoqi Chen
+  - Jordan Vega
+  - Stephen Xia
+  - Rishikanth Chandrasekaran
+  - Xiaofan Jiang
+  publisher: Proceedings of the 4th ACM International Conference on Systems for Energy-Efficient
+    Built Environments
+  date: '2017-11-08'
+  link: https://doi.org/gs8ngx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3123024.3124408
+  title: SPINDLES
+  authors:
+  - Stephen Xia
+  - Yan Lu
+  - Peter Wei
+  - Xiaofan Jiang
+  publisher: Proceedings of the 2017 ACM International Joint Conference on Pervasive
+    and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium
+    on Wearable Computers
+  date: '2017-09-11'
+  link: https://doi.org/gs8ngz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/2994551.2996547
+  title: SEUS
+  authors:
+  - Rishikanth Chandrasekaran
+  - Daniel de Godoy
+  - Stephen Xia
+  - Md Tamzeed Islam
+  - Bashima Islam
+  - Shahriar Nirjon
+  - Peter Kinget
+  - Xiaofan Jiang
+  publisher: Proceedings of the 14th ACM Conference on Embedded Network Sensor Systems
+    CD-ROM
+  date: '2016-11-14'
+  link: https://doi.org/gs8ng2
   plugin: sources.py
   file: sources.yaml
