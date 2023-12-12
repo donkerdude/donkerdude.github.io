@@ -12,8 +12,8 @@ Death and injury caused by accidents in urban areas have seen a sharp increase i
 
 {%
   include figure.html
-  image="images/project/system_architecture.png"
-  caption="PAWS system architecture."
+  image="images/project/Compound_image1_paws.png"
+  caption="PAWS overview."
 %}
 
 With the prevalence of smartphones, pedestrians and joggers today often walk or run while listening to music. Since they are deprived of their auditory senses that would have provided important cues to dangers, they are at a much greater risk of being hit by cars or other vehicles. PAWS/SEUS is a wearable system that uses multi-channel audio sensors embedded in a headset to help detect and locate cars from their honks, engine and tire noises, and warn pedestrians of imminent dangers of approaching cars. The system acts as a second pair of ears in situations where the user’s sense of hearing is greatly diminished, such as when the user is taking a phone call or listening to music, and warns users of imminent dangers well in advance, allowing users ample time to react and avoid traffic accidents.

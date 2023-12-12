@@ -7,14 +7,14 @@ title: Drone-based Airflow Sensing without Sensors
 {%
   include figure.html
   image="images/project/teaser_airflow.png"
-  caption="Privacy preserving pillbox and smartphone system with robust light-based pill detection."
+  caption="Illustration of mapping of 3D airflow fields."
 %}
 
 Mapping 3D airflow fields is important for many HVAC, industrial, medical, and home applications. However, current approaches are expensive and time-consuming. We present Anemoi, a sub-$100 drone-based system for autonomously mapping 3D airflow fields in indoor environments. Anemoi leverages the effects of airflow on motor control signals to estimate the magnitude and direction of wind at any given point in space. We introduce an exploration algorithm for selecting optimal waypoints that minimize overall airflow estimation uncertainty.
 
 {%
   include figure.html
-  image="airflow_sensorless_data.png"
+  image="images/project/airflow_sensorless_data.png"
   caption="3D visualization of motor control signals and intermediate projections for estimating airflows."
 %}
 
