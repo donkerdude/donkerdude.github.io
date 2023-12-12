@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<meta http-equiv = "refresh" content = "0; url = http://www.stephenxia.com" />
+
 {% capture floatcontent %}
 
 {% include portrait.html lookup=page.slug %}
@@ -10,7 +12,6 @@ layout: default
   {% for link in page.links %}
     {% assign key = link[0] %}
     {% assign value = link[1] %}
-	<meta http-equiv = "refresh" content = "0; url = http://www.stephenxia.com" />
     {% include button.html type=key link=value style="bare" %}<br>
   {% endfor %}
 </div>
