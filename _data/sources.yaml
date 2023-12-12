@@ -1,23 +1,77 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+- id: doi:10.1145/3600100.3623735
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1145/3570361.3613292
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1145/3575813.3597350
+
+- id: doi:10.1145/3583120.3586962
+
+- id: doi:10.1145/3576914.3589561
+
+- id: doi:10.1145/3576842.3582369
+
+- id: doi:10.1109/IPSN54338.2022.00009
+
+- id: doi:10.1145/3498361.3538667
+
+- id: doi:10.1145/3498361.3538671
+
+- id: doi:10.1145/3560905.3568082
+
+- id: doi:10.1145/3560905.3568074
+
+- id: doi:10.1109/MPRV.2022.3172419
+
+- id: doi:10.1109/IPSN54338.2022.00017
+
+- id: doi:10.1145/3539490.3539598
+
+- id: doi:10.1145/3539490.3539603
+
+- id: doi:10.3390/s22041476
+
+- id: doi:10.1109/DCOSS54816.2022.00029
+
+- id: doi:10.1145/3485730.3492881
+
+- id: doi:10.1145/3412382.3458267
+
+- id: doi:10.1145/3412382.3458784
+
+- id: doi:10.1016/j.pmcj.2021.101424
+
+- id: doi:10.1109/IPSN48710.2020.000-1
+
+- id: doi:10.1145/3417313.3429383
+
+- id: doi:10.1109/IoTDI49375.2020.00011
+
+- id: doi:10.1109/JIOT.2020.2974848
+
+- id: doi:10.1109/JIOT.2019.2903519
+
+- id: doi:10.1145/3218582
+
+- id: doi:10.1109/VNC.2018.8628320
+
+- id: doi:10.3390/s18113775
+
+- id: doi:10.1109/IoTDI.2018.00056
+
+- id: doi:10.1145/3209219.3209244
+
+- id: doi:10.1016/j.smhl.2018.07.012
+
+- id: doi:10.1145/3267305.3274177
+
+- id: doi:10.1109/IoTDI.2018.00031
+
+- id: doi:10.1016/j.smhl.2018.07.019
+
+- id: doi:10.1145/3137133.3137150
+
+- id: doi:10.1145/3123024.3124408
+
+- id: doi:10.1145/2994551.2996547
+
+
