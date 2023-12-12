@@ -10,3 +10,5 @@ links:
   linkedin: stephen-xia
   orcid: 0000-0001-5713-8885
 ---
+
+<meta http-equiv = "refresh" content = "0; url = http://www.stephenxia.com" />
