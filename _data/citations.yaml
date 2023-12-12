@@ -13,6 +13,7 @@
     Buildings, Cities, and Transportation
   date: '2023-11-15'
   link: https://doi.org/gs8ndf
+  group: energyrec_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -33,6 +34,7 @@
     and Networking
   date: '2023-10-02'
   link: https://doi.org/gs8nfs
+  group: airflow_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -53,6 +55,7 @@
     Systems
   date: '2023-06-16'
   link: https://doi.org/gs8nft
+  group: energyrec_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -68,6 +71,7 @@
     Networks
   date: '2023-05-09'
   link: https://doi.org/gs8nfv
+  group: arsteth_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -84,6 +88,7 @@
   publisher: Proceedings of Cyber-Physical Systems and Internet of Things Week 2023
   date: '2023-05-09'
   link: https://doi.org/gs8nfw
+  group: ava_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -101,6 +106,7 @@
     and Implementation
   date: '2023-05-09'
   link: https://doi.org/gs8nfx
+  group: legosense_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -120,6 +126,7 @@
     in Sensor Networks (IPSN)
   date: '2022-05-01'
   link: https://doi.org/gs8nfz
+  group: fever_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -137,6 +144,7 @@
     Applications and Services
   date: '2022-06-27'
   link: https://doi.org/gs8nf2
+  group: legosense_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -152,6 +160,7 @@
     Applications and Services
   date: '2022-06-27'
   link: https://doi.org/gs8nf3
+  group: airflow_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -167,6 +176,7 @@
   publisher: Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems
   date: '2022-11-06'
   link: https://doi.org/gs8nf4
+  group: arsteth_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -185,6 +195,7 @@
   publisher: Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems
   date: '2022-11-06'
   link: https://doi.org/gs8nf5
+  group: aitherapist_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -201,6 +212,7 @@
   publisher: IEEE Pervasive Computing
   date: '2022-10-01'
   link: https://doi.org/gs8nf7
+  group: aitherapist_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -214,6 +226,7 @@
     in Sensor Networks (IPSN)
   date: '2022-05-01'
   link: https://doi.org/gs8nf8
+  group: ava_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -227,6 +240,7 @@
     Systems and Applications
   date: '2022-06-27'
   link: https://doi.org/gs8nf9
+  group: ava_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -243,6 +257,7 @@
     Systems and Applications
   date: '2022-06-27'
   link: https://doi.org/grmf9j
+  group: aitherapist_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -276,6 +291,7 @@
     Systems (DCOSS)
   date: '2022-05-01'
   link: https://doi.org/gs8ngb
+  group: camnetwork_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -291,6 +307,7 @@
   publisher: Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems
   date: '2021-11-15'
   link: https://doi.org/gs8ngc
+  group: homeai_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -304,6 +321,7 @@
     in Sensor Networks (co-located with CPS-IoT Week 2021)
   date: '2021-05-18'
   link: https://doi.org/gs8ngd
+  group: urbansafety_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -316,6 +334,7 @@
     in Sensor Networks (co-located with CPS-IoT Week 2021)
   date: '2021-05-18'
   link: https://doi.org/gs8ngf
+  group: ava_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -335,6 +354,7 @@
   publisher: Pervasive and Mobile Computing
   date: '2021-08-01'
   link: https://doi.org/gkc7pn
+  group: spiders_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -350,6 +370,7 @@
     in Sensor Networks (IPSN)
   date: '2020-04-01'
   link: https://doi.org/gs8ngg
+  group: spiders_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -362,6 +383,7 @@
     Intelligence and Machine Learning for Internet of Things
   date: '2020-11-16'
   link: https://doi.org/gs8ngh
+  group: ava_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -378,6 +400,7 @@
     and Implementation (IoTDI)
   date: '2020-04-01'
   link: https://doi.org/gs8ngj
+  group: spiders_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -394,6 +417,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2020-07-01'
   link: https://doi.org/gsz6wn
+  group: energyrec_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -410,6 +434,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2019-10-01'
   link: https://doi.org/gs8ngk
+  group: urbansafety_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -426,6 +451,7 @@
   publisher: ACM Transactions on Sensor Networks
   date: '2018-11-27'
   link: https://doi.org/gs8ngm
+  group: energyfootprint_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -442,6 +468,7 @@
   publisher: 2018 IEEE Vehicular Networking Conference (VNC)
   date: '2018-12-01'
   link: https://doi.org/gs8ngn
+  group: urbansafety_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -460,6 +487,7 @@
   publisher: Sensors
   date: '2018-11-05'
   link: https://doi.org/gs8ngp
+  group: perspiration_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -476,6 +504,7 @@
     and Implementation (IoTDI)
   date: '2018-04-01'
   link: https://doi.org/gs8ngq
+  group: urbansafety_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -488,6 +517,7 @@
   publisher: Proceedings of the 26th Conference on User Modeling, Adaptation and Personalization
   date: '2018-07-03'
   link: https://doi.org/gs8ngr
+  group: energyrec_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -504,6 +534,7 @@
   publisher: Smart Health
   date: '2018-12-01'
   link: https://doi.org/gs8ngs
+  group: pillbox_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -522,6 +553,7 @@
     Symposium on Pervasive and Ubiquitous Computing and Wearable Computers
   date: '2018-10-08'
   link: https://doi.org/gs8ngt
+  group: perspiration_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -541,6 +573,7 @@
     and Implementation (IoTDI)
   date: '2018-04-01'
   link: https://doi.org/gs8ngv
+  group: urbansafety_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -554,6 +587,7 @@
   publisher: Smart Health
   date: '2018-12-01'
   link: https://doi.org/gs8ngw
+  group: legshake_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -570,6 +604,7 @@
     Built Environments
   date: '2017-11-08'
   link: https://doi.org/gs8ngx
+  group: energyfootprint_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -585,6 +620,7 @@
     on Wearable Computers
   date: '2017-09-11'
   link: https://doi.org/gs8ngz
+  group: legshake_cu
   image: false
   plugin: sources.py
   file: sources.yaml
@@ -603,6 +639,7 @@
     CD-ROM
   date: '2016-11-14'
   link: https://doi.org/gs8ng2
+  group: urbansafety_cu
   image: false
   plugin: sources.py
   file: sources.yaml
