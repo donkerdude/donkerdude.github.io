@@ -30,6 +30,10 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+manager:
+  icon: fa-solid fa-people-roof
+  description: Manager
+
 # general
 
 link:
