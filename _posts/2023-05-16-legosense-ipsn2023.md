@@ -1,6 +1,7 @@
 ---
 title: 'LegoSENSE Accepted and Presented at IoTDI 2023'
 author: imec
+group: recent
 ---
 
 {%

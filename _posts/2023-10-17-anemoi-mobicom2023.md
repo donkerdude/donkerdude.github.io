@@ -1,6 +1,7 @@
 ---
 title: '"Anemoi: A Low-cost Sensorless Indoor Drone System for Automatic Mapping of 3D Airflow Fields" Accepted and Presented at MobiCom 2023'
 author: imec
+group: recent
 ---
 
 {%

@@ -1,6 +1,7 @@
 ---
 title: 'RECA Wins Best Paper at BuildSys 2023'
 author: imec
+group: recent
 ---
 
 {%
