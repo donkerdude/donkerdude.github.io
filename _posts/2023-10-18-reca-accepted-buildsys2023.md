@@ -2,6 +2,7 @@
 title: '"RECA: A Multi-Task Deep Reinforcement Learning-Based Recommender System for Co-Optimizing Energy, Comfort and Air Quality in Commercial Buildings", Accepted, To Be Presented at BuildSys 2023'
 author: imec
 group: recent
+image: images/news/Luxury-Office-Space-New-York-City-scaled.jpg
 ---
 
 {%

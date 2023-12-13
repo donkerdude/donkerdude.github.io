@@ -2,6 +2,7 @@
 title: '"A Data-Driven and Human-Centric EV Charging Recommendation System at City-Scale" Accepted and Presented at ACM e-Energy 2023'
 author: imec
 group: recent
+image: images/news/eenergy2023_presentation.jpeg
 ---
 
 {%
