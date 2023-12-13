@@ -11,11 +11,11 @@
         href="{{ post.url | relative_url }}"
       {% endif %}
       class="citation-image"
-      aria-label="{{ post.title | default: "post url" }}"
+      aria-label=""
     >
       <img
         src="{{ post.image | relative_url }}"
-        alt="{{ post.title | default: "post image" }}"
+        alt=""
         loading="lazy"
         {% include fallback.html %}
       >
