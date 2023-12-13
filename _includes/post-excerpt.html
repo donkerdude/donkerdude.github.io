@@ -4,16 +4,26 @@
   | default: include
 %}
 
-<div class="post-excerpt">
-  {% assign url = post.url %}
-  {% assign title = post.title %}
-  <a href="{{ url | relative_url }}">
-    <img
+<div class="post-excerpt-image">
+    <a
+      {% if post.link %}
+        href="{{ post.link | relative_url }}"
+      {% endif %}
+      class="post-image"
+      aria-label=""
+    >
+      <img
         src="{{ post.image | relative_url }}"
         alt=""
         loading="lazy"
         {% include fallback.html %}
-    >
+      >
+    </a>
+<div class="post-excerpt">
+  {% assign url = post.url %}
+  {% assign title = post.title %}
+  <a href="{{ url | relative_url }}">
+    
 	
     {{ title }}
   </a>
@@ -41,4 +51,5 @@
   <p data-search="{{ search }}">
     {{ excerpt }}
   </p>
+</div>
 </div>
