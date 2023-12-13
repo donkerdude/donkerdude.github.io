@@ -157,12 +157,12 @@ error:
 # presentations
 
 presentation:
-  icon: fa-solid fa-presentation-screen
+  icon: fa-solid fa-person-chalkboard
   text: Presentation
   tooltip: Presentation
 
 demonstration:
-  icon: fa-solid fa-laptop-binary
+  icon: fa-solid fa-laptop-code
   text: Demonstration
   tooltip: Demonstration
 
