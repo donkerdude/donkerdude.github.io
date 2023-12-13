@@ -88,11 +88,11 @@ We evaluate CSAFE at a real construction site, with a wide variety of constructi
 
 ## Code and Media
 
-{% include button.html type="presentation" text="IPSN 2022 Presentation" link="https://www.youtube.com/watch?v=Br3zWFyAwJ0" %}
+{% include button.html type="presentation" text="IPSN 2021 Presentation" link="https://www.youtube.com/watch?v=Br3zWFyAwJ0" %}
 
 {% include button.html type="source" text="Front-End Code" link="https://github.com/Columbia-ICSL/PAWS-FrontEnd" %}
 
-{% include button.html type="source" text="Android Application" link="https://github.com/Columbia-ICSL/PAWS-Smartphone" %}
+{% include button.html type="source" text="Android Code" link="https://github.com/Columbia-ICSL/PAWS-Smartphone" %}
 
 {% include section.html %}
 

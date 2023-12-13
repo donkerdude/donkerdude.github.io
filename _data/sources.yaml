@@ -1,151 +1,284 @@
 - id: doi:10.1145/3600100.3623735
   group: energyrec_cu
-  image: false
+  image: images/project/RECA_DeepQNetworkSetpoint.png
+  tags:
+    - Best Paper
+    - BuildSys
   
 - id: doi:10.1145/3570361.3613292
   group: airflow_cu
-  image: false
+  image: images/project/teaser_airflow.png
+  tags:
+    - MobiCom
   
 - id: doi:10.1145/3575813.3597350
   group: energyrec_cu
-  image: false
+  image: images/project/RLChargers.png
+  tags:
+    - e-Energy
   
 - id: doi:10.1145/3583120.3586962
   group: arsteth_cu
-  image: false
+  image: images/project/banner_1_cropped.png
+  tags:
+    - IPSN
   
 - id: doi:10.1145/3576914.3589561
   group: ava_cu
-  image: false
+  image: images/project/ExperimentSetup_canrun.png
+  tags:
+    - IASA
   
 - id: doi:10.1145/3576842.3582369
   group: legosense_cu
-  image: false
+  image: images/project/hw_overview_v3_cropped.png
+  buttons:
+    - type: source
+      text: Code
+      link: https://github.com/Columbia-ICSL/LegoSENSE
+  tags:
+    - IoTDI
   
 - id: doi:10.1109/IPSN54338.2022.00009
   group: fever_cu
-  image: false
+  image: images/project/sifter_columbiadoctors.png
+  tags:
+    - IPSN
   
 - id: doi:10.1145/3498361.3538667
   group: legosense_cu
-  image: false
+  image: images/project/sensorhub_demo_highlighted.png
+  tags:
+    - MobiSys
   
 - id: doi:10.1145/3498361.3538671
   group: airflow_cu
-  image: false
+  image: images/project/Minifly-labelled.png
+  tags:
+    - MobiSys
   
 - id: doi:10.1145/3560905.3568082
   group: arsteth_cu
-  image: false
+  image: images/project/guidance2.png
+  tags:
+    - SenSys
   
 - id: doi:10.1145/3560905.3568074
   group: aitherapist_cu
-  image: false
+  image: images/project/Experiment_Setup_aitherapist.png
+  tags:
+    - SenSys
   
 - id: doi:10.1109/MPRV.2022.3172419
   group: aitherapist_cu
-  image: false
+  image: images/project/answering_naming_frozen-1024x501.png
   
 - id: doi:10.1109/IPSN54338.2022.00017
   group: ava_cu
-  image: false
+  image: images/project/ava_applications.png
+  tags:
+    - IPSN
   
 - id: doi:10.1145/3539490.3539598
+  title: 'BuMA: Non-Intrusive Breathing Detection using Microphone Array'
   group: ava_cu
-  image: false
+  image: images/project/1569792226613.jpeg
+  tags:
+    - IASA
   
 - id: doi:10.1145/3539490.3539603
   group: aitherapist_cu
-  image: false
+  image: images/project/AI_therapist.png
+  tags:
+    - IASA
+  
   
 - id: doi:10.3390/s22041476
-  image: false
+  image: images/project/har_sensors-1.png
   
 - id: doi:10.1109/DCOSS54816.2022.00029
   group: camnetwork_cu
-  image: false
+  image: images/project/0.Implementation-1024x387.png
+  tags:
+    - DCOSS
   
 - id: doi:10.1145/3485730.3492881
   group: homeai_cu
-  image: false
+  image: images/project/image-5.png
+  buttons:
+    - type: demonstration
+      text: SenSys 2021 Demo
+      link: https://www.youtube.com/watch?v=HxFvBUEluy0
+  tags:
+    - Best Demo
+    - SenSys
   
 - id: doi:10.1145/3412382.3458267
+  title: 'CSafe: An Intelligent Audio Wearable Platform for Improving Construction Worker Safety in Urban Environments'
   group: urbansafety_cu
-  image: false
+  image: images/project/const_site_exp-scaled.jpg
+  buttons:
+    - type: presentation
+      text: IPSN 2021 Presentation
+      link: https://www.youtube.com/watch?v=Br3zWFyAwJ0
+  tags:
+    - IPSN
   
 - id: doi:10.1145/3412382.3458784
   group: ava_cu
-  image: false
+  image: images/project/source_separation_architecture.png
+  tags:
+    - IPSN
   
 - id: doi:10.1016/j.pmcj.2021.101424
+  title: 'SPIDERS+: A light-weight, wireless, and low-cost glasses-based wearable platform for emotion sensing and bio-signal acquisition'
   group: spiders_cu
-  image: false
+  image: images/project/spiders_and_manikin.png
+  buttons:
+    - type: source
+      text: Code
+      link: https://github.com/Columbia-ICSL/SPIDERS
   
 - id: doi:10.1109/IPSN48710.2020.000-1
   group: spiders_cu
-  image: false
+  image: images/project/Picture3_spiders.png
+  buttons:
+    - type: demonstration
+      text: IPSN 2020 Demo
+      link: https://www.youtube.com/watch?v=SOX7UIqaQGQ
+  tags:
+    - Best Demo
+    - IPSN
   
 - id: doi:10.1145/3417313.3429383
+  title: 'PAMS: Improving Privacy in Audio-Based Mobile Systems'
   group: ava_cu
-  image: false
+  image: images/project/audiospeaker_privacy.PNG
+  tags:
+    - AIChallengeIoT
   
 - id: doi:10.1109/IoTDI49375.2020.00011
   group: spiders_cu
-  image: false
+  image: images/project/Picture7.png
+  buttons:
+    - type: presentation
+      text: IoTDI 2020 Presentation
+      link: https://youtu.be/NzPlKYPWuKI
+    - type: source
+      text: Code
+      link: https://github.com/Columbia-ICSL/SPIDERS
+  tags:
+    - IoTDI
   
 - id: doi:10.1109/JIOT.2020.2974848
   group: energyrec_cu
-  image: false
+  image: images/project/recEnergyWatch_IoTJ-1024x1024.png
   
 - id: doi:10.1109/JIOT.2019.2903519
   group: urbansafety_cu
-  image: false
+  image: images/project/Compound_image1_paws.png
+  buttons:
+    - type: source
+      text: Front-End Code
+      link: https://github.com/Columbia-ICSL/PAWS-FrontEnd
+    - type: source
+      text: Android Code
+      link: https://github.com/Columbia-ICSL/PAWS-Smartphone
 
 - id: doi:10.1145/3218582
   group: energyfootprint_cu
-  image: false
+  image: images/project/energy_apportionment.png
+  buttons:
+    - type: website
+      text: Project Website
+      link: http://icsl.ee.columbia.edu/buildingEnergy/
+    - type: app
+      text: iOS
+      link: https://itunes.apple.com/us/app/icsl-energy/id1209898397?mt=8
+    - type: app
+      text: Android
+      link: https://play.google.com/store/apps/details?id=edu.columbia.icsl.androidmobile&hl=en
+  tags:
+    - TOSN
 
 - id: doi:10.1109/VNC.2018.8628320
   group: urbansafety_cu
-  image: false
+  image: images/project/flow_vnc2018.png
+  tags:
+    - Best Presentation
+    - Runner-Up Best App
+    - VNC
   
 - id: doi:10.3390/s18113775
   group: perspiration_cu
-  image: false
+  image: images/project/sweat.png
 
 - id: doi:10.1109/IoTDI.2018.00056
   group: urbansafety_cu
-  image: false
+  image: images/project/IMG_20180307_143251.jpg
+  tags:
+    - Best Demo
+    - IoTDI
   
 - id: doi:10.1145/3209219.3209244
   group: energyrec_cu
-  image: false
+  image: images/project/SketchUp_umap2018.png
+  tags:
+    - UMAP
   
 - id: doi:10.1016/j.smhl.2018.07.012
   group: pillbox_cu
-  image: false
+  image: images/project/pillbox-1024x766.jpg
   
 - id: doi:10.1145/3267305.3274177
   group: perspiration_cu
-  image: false
+  image: images/project/sweat_Simple_Model-1.png
   
 - id: doi:10.1109/IoTDI.2018.00031
   group: urbansafety_cu
-  image: false
+  image: images/project/Teardown_SEUS.PNG
+  buttons:
+    - type: source
+      text: Front-End Code
+      link: https://github.com/Columbia-ICSL/PAWS-FrontEnd
+    - type: source
+      text: Android Code
+      link: https://github.com/Columbia-ICSL/PAWS-Smartphone
+  tags:
+    - IoTDI
   
 - id: doi:10.1016/j.smhl.2018.07.019
   group: legshake_cu
-  image: false
+  image: images/project/legshake_plus_personalization.png
   
 - id: doi:10.1145/3137133.3137150
+  title: 'ePrints: a real-time and scalable system for fair apportionment and tracking of personal energy footprints in commercial buildings'
   group: energyfootprint_cu
-  image: false
+  image: images/project/eprint_dashboard.jpg
+  buttons:
+    - type: website
+      text: Project Website
+      link: http://icsl.ee.columbia.edu/buildingEnergy/
+    - type: app
+      text: iOS
+      link: https://itunes.apple.com/us/app/icsl-energy/id1209898397?mt=8
+    - type: app
+      text: Android
+      link: https://play.google.com/store/apps/details?id=edu.columbia.icsl.androidmobile&hl=en
+  tags:
+    - Best Paper Runner-Up
+    - BuildSys
   
 - id: doi:10.1145/3123024.3124408
+  title: 'SPINDLES: A Smartphone Platform for Intelligent Detection and Notification of Leg Shaking'
   group: legshake_cu
-  image: false
+  image: images/project/3d_scatter_oppositeleg_highlighted.png
   
 - id: doi:10.1145/2994551.2996547
+  title: 'SEUS: A Wearable Multi-Channel Acoustic Headset Platform to Improve Pedestrian Safety: Demo Abstract'
   group: urbansafety_cu
-  image: false
+  image: images/project/EXP2_CROP_reduced.jpg
+  tags:
+    - Best Demo Runner-Up
+    - SenSys
 
