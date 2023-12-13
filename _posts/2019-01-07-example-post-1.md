@@ -7,4 +7,9 @@ tags:
   - big data
 ---
 
+{%
+  include figure.html
+  image="images/news/IMG_2181.jpg"
+%}
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
