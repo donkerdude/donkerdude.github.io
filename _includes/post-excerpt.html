@@ -6,8 +6,8 @@
 
 <div class="post-excerpt-image">
     <a
-      {% if post.link %}
-        href="{{ post.link | relative_url }}"
+      {% if post.url %}
+        href="{{ post.url | relative_url }}"
       {% endif %}
       class="post-image"
       aria-label=""
@@ -22,11 +22,7 @@
 <div class="post-excerpt">
   {% assign url = post.url %}
   {% assign title = post.title %}
-  <a href="{{ url | relative_url }}">
-    
-	
-    {{ title }}
-  </a>
+  <a href="{{ url | relative_url }}">{{ title }}</a>
 
   {%
     include post-info.html
