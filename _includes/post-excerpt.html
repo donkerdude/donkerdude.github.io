@@ -5,20 +5,22 @@
 %}
 
 <div class="citation">
+    {% if include.style == "rich" %}
     <a
       {% if post.url %}
         href="{{ post.url | relative_url }}"
       {% endif %}
-      class="post-image"
-      aria-label=""
+      class="citation-image"
+      aria-label="{{ post.title | default: "post url" }}"
     >
       <img
         src="{{ post.image | relative_url }}"
-        alt=""
+        alt="{{ post.title | default: "post image" }}"
         loading="lazy"
         {% include fallback.html %}
       >
     </a>
+  {% endif %}
 <div class="citation-text">
   {% assign url = post.url %}
   {% assign title = post.title %}
