@@ -19,10 +19,10 @@
         {% include fallback.html %}
       >
     </a>
-<div class="post-excerpt">
+<div class="citation-text">
   {% assign url = post.url %}
   {% assign title = post.title %}
-  <a href="{{ url | relative_url }}">{{ title }}</a>
+  <a href="{{ url | relative_url }}" class="citation-title">{{ title }}</a>
 
   {%
     include post-info.html
