@@ -1,5 +1,5 @@
 ---
-title: Example post 1
+title: "RECA Wins Best Paper" at BuildSys 2023
 author: sarah-johnson
 tags:
   - biology
