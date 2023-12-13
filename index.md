@@ -9,4 +9,4 @@ At IMEC, we work at the intersection between systems, embedded AI, and data with
 
 ## Recent News
 
-{% include list.html data="posts" component="post-excerpt" filters="group: recent" %}
+{% include list.html data="posts" component="post-excerpt" style="rich" filters="group: recent" %}
