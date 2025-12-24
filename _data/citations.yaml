@@ -104,7 +104,7 @@
   group: ava_cu
   image: images/project/ExperimentSetup_canrun.png
   tags:
-  - IASA
+  - IASA Workshop
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3576842.3582369
@@ -171,6 +171,7 @@
   image: images/project/sensorhub_demo_highlighted.png
   tags:
   - MobiSys
+  - Demo
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3498361.3538671
@@ -189,6 +190,7 @@
   image: images/project/Minifly-labelled.png
   tags:
   - MobiSys
+  - Demo
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3560905.3568082
@@ -207,6 +209,7 @@
   image: images/project/guidance2.png
   tags:
   - SenSys
+  - Demo
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3560905.3568074
@@ -228,6 +231,7 @@
   image: images/project/Experiment_Setup_aitherapist.png
   tags:
   - SenSys
+  - Demo
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MPRV.2022.3172419
@@ -276,7 +280,7 @@
   group: ava_cu
   image: images/project/1569792226613.jpeg
   tags:
-  - IASA
+  - IASA Workshop
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3539490.3539603
@@ -295,7 +299,7 @@
   group: aitherapist_cu
   image: images/project/AI_therapist.png
   tags:
-  - IASA
+  - IASA Workshop
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/s22041476
@@ -355,6 +359,7 @@
   tags:
   - Best Demo
   - SenSys
+  - Demo
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3412382.3458267
@@ -391,6 +396,7 @@
   image: images/project/source_separation_architecture.png
   tags:
   - IPSN
+  - Poster
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.pmcj.2021.101424
@@ -436,6 +442,7 @@
   tags:
   - Best Demo
   - IPSN
+  - Demo
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3417313.3429383
@@ -450,7 +457,7 @@
   group: ava_cu
   image: images/project/audiospeaker_privacy.PNG
   tags:
-  - AIChallengeIoT
+  - AIChallengeIoT Workshop
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/IoTDI49375.2020.00011
@@ -579,7 +586,7 @@
   - Shijia Pan
   - Stephen Xia
   - Peter Wei
-  - Hae Noh
+  - Hae Young Noh
   - Pei Zhang
   - Xiaofan Jiang
   publisher: Sensors
@@ -772,5 +779,6 @@
   tags:
   - Best Demo Runner-Up
   - SenSys
+  - Demo
   plugin: sources.py
   file: sources.yaml
