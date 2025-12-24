@@ -31,7 +31,7 @@
   group: ava_cu
   image: images/project/ExperimentSetup_canrun.png
   tags:
-    - IASA
+    - IASA Workshop
   
 - id: doi:10.1145/3576842.3582369
   group: legosense_cu
@@ -54,24 +54,28 @@
   image: images/project/sensorhub_demo_highlighted.png
   tags:
     - MobiSys
+    - Demo
   
 - id: doi:10.1145/3498361.3538671
   group: airflow_cu
   image: images/project/Minifly-labelled.png
   tags:
     - MobiSys
+    - Demo
   
 - id: doi:10.1145/3560905.3568082
   group: arsteth_cu
   image: images/project/guidance2.png
   tags:
     - SenSys
+    - Demo
   
 - id: doi:10.1145/3560905.3568074
   group: aitherapist_cu
   image: images/project/Experiment_Setup_aitherapist.png
   tags:
     - SenSys
+    - Demo
   
 - id: doi:10.1109/MPRV.2022.3172419
   group: aitherapist_cu
@@ -88,13 +92,13 @@
   group: ava_cu
   image: images/project/1569792226613.jpeg
   tags:
-    - IASA
+    - IASA Workshop
   
 - id: doi:10.1145/3539490.3539603
   group: aitherapist_cu
   image: images/project/AI_therapist.png
   tags:
-    - IASA
+    - IASA Workshop
   
   
 - id: doi:10.3390/s22041476
@@ -116,6 +120,7 @@
   tags:
     - Best Demo
     - SenSys
+    - Demo
   
 - id: doi:10.1145/3412382.3458267
   title: 'CSafe: An Intelligent Audio Wearable Platform for Improving Construction Worker Safety in Urban Environments'
@@ -133,6 +138,7 @@
   image: images/project/source_separation_architecture.png
   tags:
     - IPSN
+    - Poster
   
 - id: doi:10.1016/j.pmcj.2021.101424
   title: 'SPIDERS+: A light-weight, wireless, and low-cost glasses-based wearable platform for emotion sensing and bio-signal acquisition'
@@ -153,13 +159,14 @@
   tags:
     - Best Demo
     - IPSN
+    - Demo
   
 - id: doi:10.1145/3417313.3429383
   title: 'PAMS: Improving Privacy in Audio-Based Mobile Systems'
   group: ava_cu
   image: images/project/audiospeaker_privacy.PNG
   tags:
-    - AIChallengeIoT
+    - AIChallengeIoT Workshop
   
 - id: doi:10.1109/IoTDI49375.2020.00011
   group: spiders_cu
@@ -285,4 +292,5 @@
   tags:
     - Best Demo Runner-Up
     - SenSys
+    - Demo
 
