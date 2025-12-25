@@ -2,7 +2,7 @@
 - id: doi:10.48550/arXiv.2504.05585
   image: images/project/tw-crl-env.png
   publisher: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)
-  date: 2026-01-20
+  date: '2026-01-20'
   tags:
     - Oral
     - AAAI
@@ -10,7 +10,7 @@
 - id: doi:10.48550/arXiv.2509.25278
   image: images/project/maestro_motivation_1.png
   publisher: The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)
-  date: 2025-12-02
+  date: '2025-12-02'
   tags:
     - Spotlight
     - NeurIPS
@@ -23,7 +23,7 @@
     - Maia Jacobs
     - Josiah Hester
   publisher: The First Workshop on Ethical Systems and Architecture Design (HotEthics)
-  date: 2024-04-28
+  date: '2024-04-28'
   link: https://hotethics.github.io/papers/Cruz_Hotethics24.pdf
   tags:
     - HotEthics
