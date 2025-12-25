@@ -18,19 +18,22 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2509.25278
-  title: 'The Need for Equitable Systems Design: Lessons Learned From A Co-design
-    Study with Low-Income Communities'
+  title: 'MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic
+    Time Series'
   authors:
-  - Stefany Cruz
+  - Payal Mohapatra
+  - Yueyuan Sui
+  - Akash Pandey
   - Stephen Xia
-  - Maia Jacobs
-  - Josiah Hester
-  publisher: The First Workshop on Ethical Systems and Architecture Design (HotEthics)
-  date: '2024-04-28'
-  link: https://hotethics.github.io/papers/Cruz_Hotethics24.pdf
-  image: images/icon.png
+  - Qi Zhu
+  publisher: The Thirty-Ninth Annual Conference on Neural Information Processing Systems
+    (NeurIPS)
+  date: '2025-12-02'
+  link: https://doi.org/hbgxm8
+  image: images/project/maestro_motivation_1.png
   tags:
-  - HotEthics
+  - Spotlight
+  - NeurIPS
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3772079
