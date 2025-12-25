@@ -73,7 +73,8 @@
   tags:
     - Preprint
 
-- title: 'The Need for Equitable Systems Design: Lessons Learned From A Co-design Study with Low-Income Communities'
+- id: doi:10.1145/3636534.3697460
+  title: 'The Need for Equitable Systems Design: Lessons Learned From A Co-design Study with Low-Income Communities'
   image: images/icon.png
   authors:
     - Stefany Cruz
