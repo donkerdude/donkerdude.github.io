@@ -1,6 +1,6 @@
 ---
 name: Weisi Yang
-image: images/people/weisi.jpg
+image: images/people/weisi.JPG
 role: phd
 links:
   email: WeisiYang2029@u.northwestern.edu
