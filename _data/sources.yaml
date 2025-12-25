@@ -23,7 +23,7 @@
 - id: doi:10.1145/3737901.3768363
   image: images/project/IMUSteth-1.png
   tags:
-    - IASA
+    - IASA Workshop
 
 - id: doi:10.48550/arXiv.2509.05488
   image: images/project/mamba-lite-micro.png
