@@ -231,6 +231,21 @@
   - Preprint
   plugin: sources.py
   file: sources.yaml
+- title: 'The Need for Equitable Systems Design: Lessons Learned From A Co-design
+    Study with Low-Income Communities'
+  image: images/icon.png
+  authors:
+  - Stefany Cruz
+  - Stephen Xia
+  - Maia Jacobs
+  - Josiah Hester
+  publisher: The First Workshop on Ethical Systems and Architecture Design (HotEthics)
+  date: '2024-04-28'
+  link: https://hotethics.github.io/papers/Cruz_Hotethics24.pdf
+  tags:
+  - HotEthics
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3699757
   title: 'TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio
     and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable
