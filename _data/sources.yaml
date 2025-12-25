@@ -23,7 +23,7 @@
 - id: doi:10.1145/3737901.3768363
   image: images/project/IMUSteth-1.png
   tags:
-    - IASA Workshop
+    - IASA
 
 - id: doi:10.48550/arXiv.2509.05488
   image: images/project/mamba-lite-micro.png
@@ -34,17 +34,17 @@
   image: images/project/domain_system_architecture_v2-1.png
   tags:
     - Best Paper
-    - HumanSys Workshop
+    - HumanSys
 
 - id: doi:10.1145/3722570.3726885
   image: images/project/c-pter_t-sne-1.png
   tags:
-    - HumanSys Workshop
+    - HumanSys
 
 - id: doi:10.1145/3722570.3726887
   image: images/project/dualnet_F1-1.png
   tags:
-    - HumanSys Workshop
+    - HumanSys
 
 - id: doi:10.1145/3715014.3722081
   image: images/project/rasp_drone.png
@@ -134,7 +134,7 @@
   group: ava_cu
   image: images/project/ExperimentSetup_canrun.png
   tags:
-    - IASA Workshop
+    - IASA
   
 - id: doi:10.1145/3576842.3582369
   group: legosense_cu
@@ -195,13 +195,13 @@
   group: ava_cu
   image: images/project/1569792226613.jpeg
   tags:
-    - IASA Workshop
+    - IASA
   
 - id: doi:10.1145/3539490.3539603
   group: aitherapist_cu
   image: images/project/AI_therapist.png
   tags:
-    - IASA Workshop
+    - IASA
   
   
 - id: doi:10.3390/s22041476
@@ -333,6 +333,7 @@
   tags:
     - Best Demo
     - IoTDI
+    - Demo
   
 - id: doi:10.1145/3209219.3209244
   group: energyrec_cu
