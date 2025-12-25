@@ -223,7 +223,7 @@
   publisher: arXiv
   date: '2024-01-01'
   link: https://doi.org/hbgxnp
-  image: images/project/elastformer_figure1-1.png
+  image: images/project/elastiformer_figure1-1.png
   tags:
   - Preprint
   plugin: sources.py
