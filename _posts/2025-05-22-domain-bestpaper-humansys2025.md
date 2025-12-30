@@ -2,19 +2,19 @@
 title: '"DomAIn: Towards Programless Smart Homes" receives Best Paper Award at ACM HumanSys 2025'
 author: imec
 group: recent
-image: images/project/news/05-22-2025/DSC06290-scaled.png
+image: images/news/05-22-2025/DSC06290-scaled.png
 ---
 
 {%
   include figure.html
-  image="images/project/news/05-22-2025/DSC06290-scaled.png"
+  image="images/news/05-22-2025/DSC06290-scaled.png"
 %}
 
 Our paper, in collaboration with Columbia University, ["DomAIn: Towards Programless Smart Homes"](https://dl.acm.org/doi/10.1145/3722570.3726888) has been accepted for publication in [ACM HumanSys 2025](https://humansys-workshop.github.io/WS/2025/index.html) and received the Best Paper Award!
 
 {%
   include figure.html
-  image="images/project/news/05-22-2025/sys_arch.png"
+  image="images/news/05-22-2025/sys_arch.png"
 %}
 
 This work tackles a critical barrier to smart home adoption: the complexity of programming automation tasks. While 70% of U.S. homes have smart devices, widespread adoption remains limited because current platforms require users to manually program step-by-step logic, severely limiting accessibility.
