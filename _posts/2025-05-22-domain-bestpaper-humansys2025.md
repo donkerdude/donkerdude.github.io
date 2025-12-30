@@ -10,7 +10,7 @@ image: images/news/05-22-2025/DSC06290-scaled.png
   image="images/news/05-22-2025/DSC06290-scaled.png"
 %}
 
-Our paper, in collaboration with Columbia University, ["DomAIn: Towards Programless Smart Homes"](https://dl.acm.org/doi/10.1145/3722570.3726888) has been accepted for publication in [ACM HumanSys 2025](https://humansys-workshop.github.io/WS/2025/index.html) and received the Best Paper Award!
+Our paper, in collaboration with Columbia University, ["DomAIn: Towards Programless Smart Homes"](https://dl.acm.org/doi/10.1145/3722570.3726888) has been accepted for publication in [ACM HumanSys 2025](https://humansys-workshop.github.io/WS/2025/index.html), co-located with [CPS-IoT Week 2025](https://cps-iot-week2025.ics.uci.edu/), and received the Best Paper Award!
 
 {%
   include figure.html
