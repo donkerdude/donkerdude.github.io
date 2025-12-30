@@ -104,8 +104,8 @@
     Modeling, and Intelligent Systems
   date: '2025-05-06'
   link: https://doi.org/hbgxnd
-  image: images/project/domain_system_architecture_v2-1.png
   group: homeai_cu
+  image: images/project/domain_system_architecture_v2-1.png
   tags:
   - Best Paper
   - HumanSys
@@ -159,8 +159,8 @@
   publisher: Proceedings of the 23rd ACM Conference on Embedded Networked Sensor Systems
   date: '2025-05-06'
   link: https://doi.org/hbgxnj
-  image: images/project/rasp_drone.png
   group: homeai_cu
+  image: images/project/rasp_drone.png
   tags:
   - SenSys
   plugin: sources.py
@@ -210,8 +210,8 @@
     and Networking
   date: '2024-12-04'
   link: https://doi.org/hbgxnn
-  image: images/project/rasp_operating_principle.png
   group: homeai_cu
+  image: images/project/rasp_operating_principle.png
   tags:
   - MobiCom
   - Demo
