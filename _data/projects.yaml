@@ -1,3 +1,7 @@
+- title: Reconfigurable Drones and AI for Autonomous Homes, Spaces, and Environments
+  image: images/project/image-5.png
+  link: projects/drone-intelligent-spaces
+
 - title: Drone-based Airflow Sensing without Sensors
   image: images/project/Minifly-labelled.png
   link: projects/drone-sensorless-airflow
@@ -21,10 +25,6 @@
 - title: Audio Wearables for Urban Safety
   image: images/project/Teardown_SEUS.PNG
   link: projects/audio-wearables-urban-safety
-
-- title: Reconfigurable Drones and AI for Autonomous Homes, Spaces, and Environments
-  image: images/project/image-5.png
-  link: projects/drone-intelligent-spaces
 
 - title: Self-Orienting Camera Networks for Floor Mapping and Indoor Tracking
   image: images/project/0.Implementation-1024x387.png
