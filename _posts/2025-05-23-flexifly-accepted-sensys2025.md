@@ -15,6 +15,7 @@ Our work, ["FlexiFly: Interfacing the Physical World with Foundation Models Empo
 {%
   include figure.html
   image="images/news/05-23-2025/flexifly_pipeline.webp"
+  caption="FlexiFly's operation pipeline"
 %}
 
 In this work, we addressed a fundamental challenge in enabling foundation models to interact meaningfully with physical environments. While foundation models excel at digital tasks, they struggle when required to understand localized events in large physical spaces or perform real-world actions. Our contributions are summarized as follows:
