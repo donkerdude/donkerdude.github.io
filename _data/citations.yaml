@@ -48,6 +48,7 @@
   publisher: ACM Transactions on Internet of Things
   date: '2025-10-22'
   link: https://doi.org/hbgxm9
+  group: homeai_cu
   image: images/project/rasp_teaser.png
   tags:
   - TIOT
@@ -104,6 +105,7 @@
   date: '2025-05-06'
   link: https://doi.org/hbgxnd
   image: images/project/domain_system_architecture_v2-1.png
+  group: homeai_cu
   tags:
   - Best Paper
   - HumanSys
@@ -158,6 +160,7 @@
   date: '2025-05-06'
   link: https://doi.org/hbgxnj
   image: images/project/rasp_drone.png
+  group: homeai_cu
   tags:
   - SenSys
   plugin: sources.py
@@ -208,6 +211,7 @@
   date: '2024-12-04'
   link: https://doi.org/hbgxnn
   image: images/project/rasp_operating_principle.png
+  group: homeai_cu
   tags:
   - MobiCom
   - Demo
