@@ -22,6 +22,14 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
   
+ms:
+  icon: fa-solid fa-user-graduate
+  description: M.S. Student
+  
+alum_ms:
+  icon: fa-solid fa-user-graduate
+  description: M.S. Student
+  
 programmer:
   icon: fa-solid fa-code
   description: Programmer
