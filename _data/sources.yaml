@@ -1,5 +1,6 @@
 
 - id: doi:10.48550/arXiv.2504.05585
+  group: twcrl
   image: images/project/tw-crl-env.png
   publisher: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)
   date: '2026-01-20'
