@@ -10,7 +10,7 @@ image: images/news/11-09-2025/IMG_4811.jpeg
   image="images/news/11-09-2025/IMG_4811.jpeg"
 %}
 
-Stephen Xia hosts the IASA 2025 workshop at MobiCom 2025, which is the premier venue for all aspects of acoustic sensing, systems, and applications, including mobile and wearable sensing or communication utilizing sound, vibration, ultrasound, and infrasound, algorithms in acoustic intelligence, security and privacy utilizing acoustics, and data or deployment experiences.
+Stephen Xia hosts the [IASA 2025](https://intelligent-acoustics.org/2025/) workshop at [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/), which is the premier venue for all aspects of acoustic sensing, systems, and applications, including mobile and wearable sensing or communication utilizing sound, vibration, ultrasound, and infrasound, algorithms in acoustic intelligence, security and privacy utilizing acoustics, and data or deployment experiences.
 
 This full day workshop included two key notes: Professor Qian Zhang (HKUST) discussing her work at the intersection between acoustics and health, as well as Professor Nirupam Roy (University of Maryland, College Park), discussing his work at the intersection between acoustics and AI. The workshop also featured a panel of experts and seven full papers covering topics such as in-ear acoustics, smartphone sensing, and fitness/health.
 
