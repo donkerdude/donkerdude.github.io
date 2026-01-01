@@ -2,7 +2,7 @@
 title: '"TW-CRL:Time-Weighted Contrastive Reward Learning for Efficient Inverse Reinforcement Learning" Accepted to AAAI 2026 (Oral)'
 author: imec
 group: recent
-image: images/news/12-05-2025/tw-crl-env.png
+image: images/news/12-07-2025/tw-crl-env.png
 ---
 
 {%
