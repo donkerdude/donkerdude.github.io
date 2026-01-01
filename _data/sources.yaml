@@ -22,6 +22,7 @@
     - TIOT
 
 - id: doi:10.1145/3737901.3768363
+  group: arsteth_cu
   image: images/project/IMUSteth-1.png
   tags:
     - IASA
