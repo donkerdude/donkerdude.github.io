@@ -18,6 +18,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Alumni
 
-{% include list.html data="members" component="portrait" filters="role: alum_ms" %}
+{% include list.html data="members" component="portrait" filters="role: alumms" %}
 
 
