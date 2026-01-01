@@ -1,5 +1,5 @@
 ---
-title: '"MAESTRO: Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series" Accepted and Presented at ACM NeurIPS 2025 (Spotlight)'
+title: '"MAESTRO: Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series" Accepted and Presented at NeurIPS 2025 (Spotlight)'
 author: imec
 group: recent
 image: images/news/12-05-2025/maestro_motivation_1.png
@@ -10,7 +10,7 @@ image: images/news/12-05-2025/maestro_motivation_1.png
   image="images/news/12-05-2025/maestro_motivation_1.png"
 %}
 
-Our work, ["MAESTRO: Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series"](https://dl.acm.org/doi/abs/10.1145/3737901.3768363), was accepted and presented at [NeurIPS 2025](https://intelligent-acoustics.org/2025/) as a spotlight. This work was a collaboration between Payal Mohapatra, Yueyuan Sui, Akash Pandey, Stephen Xia, and Qi Zhu from Northwestern University.
+Our work, ["MAESTRO: Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series"](https://arxiv.org/pdf/2509.25278), was accepted and presented at [NeurIPS 2025](https://neurips.cc/Conferences/2025) as a spotlight. This work was a collaboration between Payal Mohapatra, Yueyuan Sui, Akash Pandey, Stephen Xia, and Qi Zhu from Northwestern University.
 
 {%
   include figure.html
