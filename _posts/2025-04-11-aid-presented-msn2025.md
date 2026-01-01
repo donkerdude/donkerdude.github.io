@@ -17,7 +17,7 @@ image: images/news/04-11-2025/IMG_3456.jpeg
 
 
 
-Weisi Yang presents our work on a smartphone-based platform for detecting and monitoring intimate partner infiltration at the SIGCHI sponsored Mobile Social Networking Workshop at Discovery Partners Institute.
+Weisi Yang presents our work on a [smartphone-based platform for detecting and monitoring intimate partner infiltration](https://arxiv.org/pdf/2502.03682) at the SIGCHI sponsored [Mobile Social Networking Workshop](https://dpi.illinois.edu/wp-content/uploads/2025/03/Call-for-posters-MSN-workshop-at-DPIv2.pdf) at Discovery Partners Institute.
 
 Our work introduces AID (Automated IPI Detection), the first system designed specifically to detect Intimate Partner Infiltration, a class of abuse that slips past traditional cybersecurity defenses because the perpetrator often already has the phone, the passcode, or the victim’s trust.
 
